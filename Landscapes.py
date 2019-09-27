@@ -93,7 +93,7 @@ b.forward(135)
 b.end_fill()
 
 
-o=turtle
+o = turtle
 o.penup()
 o.goto(-267,30)
 o.pendown()
